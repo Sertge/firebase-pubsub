@@ -12,7 +12,8 @@ firebase-debug.*.log*
 
 # Firebase config
 
-.functions/sertge-55116452cc92.json
+functions/sertge-55116452cc92.json
+functions/sertge-7ea200875284.json
 
 # Uncomment this if you'd like others to create their own Firebase project.
 # For a team working on the same Firebase project(s), it is recommended to leave
