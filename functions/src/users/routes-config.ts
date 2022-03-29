@@ -2,6 +2,7 @@ import {Application} from "express";
 import {create, all, get, patch, remove} from "./controller";
 import {isAuthenticated} from "../auth/authenticated";
 import {isAuthorized} from "../auth/authorized";
+import pubMessage = require("../utils/middleware")
 
 /**
  *
@@ -17,6 +18,7 @@ export function routesConfig(app: Application) {
   app.get("/users", [
     isAuthenticated,
     isAuthorized({hasRole: ["admin", "manager"], allowSameUser: true}),
+    pubMessage,
     all,
   ]);
   app.get("/users/:id", [
