@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "sertge",
+  "private_key_id": "55116452cc92804dacae6782a0665dfde47c288b",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvAIBADANBgkqhkiG9w0BAQEFAASCBKYwggSiAgEAAoIBAQCwfTz8JfgW9Unz\nfW5q4ivFtE5mMKnm+8ibAsaQ9ZFM47476LOTN/1ccGCqkzHhaFDbfRtUSl5KcKxe\nAwY8WraWcifmvvOYdoriY9Khmn0GowfO38BaMVqfwSsMC3A8GBETB2YRkMLB4S08\n0iKGR0EtsjYvk8qopUpL8TrHVfnFWH11bjs+JkBwp0T8i5tbBW6XpVVVHmpD0FEU\nPEPIil03b/5524cj85nooW8ZYnGsipCUcKTU4818Yy1czLnDCZWhoPGSvjnKwjIu\nMgFbnTB44dJFY105eP/OncHt/RKXqmeQK1N3dIh7Fq/hfCIpfFL7m32f9c4TxfaT\nTXJ9bH/fAgMBAAECggEACIqMaK40Zcq0gSqBLSkJnJrPmdXMaIJSQLY6AoqaipG8\nWM034O26aZPYCclFMQx0WqWhAfZLaTzaCqleJDjw/Ieac2oAWKY8Ax149HCJO8io\nuGlPDM5gqA9C1GVlUXM0uFVeVNv1oPO91bixtQqTwUYOUJp4GgCjKi5gKC96qViS\nEhoDsAl/OWUM5V1d1Mj57vGxjK24tMUeaMJXEFUGL1vTU6Hyz65IJcPtBED7wDsm\nAR9wwxUVYV5biYAA74Ll5FgGTH3TEjkUYa0/tAJd+TirLvIcLjVCR2deugrDDzAk\nMazp2299gNgV2IvR3wS1Avr0gNh9qfVetHj9qw7dsQKBgQDaogS2I1x5vqKRAj+U\n6f389uEwWCOQd19/TLqUUXrx6uGv5B8QneoxJO2YvaSrPeMi1x8uCDkuAG+FhVyv\nXL+6fwiCuuqB89Srp23m0YMqj2zMnUoHCogIMYKckTOwYvGHaL0ijJmh+rSaW3dh\nYglCBFFSQWZzfSs1Qew+XVmRCQKBgQDOp0gDciIqHiB/zXPGV4MKbWGNUn0X2vvE\ny0si96GvqQ3Vqg3XYlp16soUEEzNFlw8xxNgeuNa3fzItDPRuSRfMRO2joc1gipP\nA7A3mlHTQaBcL90/czC/D1h6gpNS0gTS/EQtLSXIGVEa7ym2rQk4U37WSQlaccTc\nju+LxweLpwKBgF7iFZ1eN1H2s+Ku0R01d68DDbPHbJfT1rQOfqLDwdGfmBaXsAus\nHOj7F8pD82UF1L9YEQYPN5GJStzthc3tOKAdZXom2INRaKieXwnfP0eHOzaJxIjN\nvz+fDQoZ0g7owd18TSjjUAGGJj8fFu5Cd7YY3ZoPHAFe/xN76qUeKjLRAoGAXfaT\n+PUhcbMnJdVeShYqgEhB7gdO19T7W3zwWiLswrmEj91107Rl2235mmva7/m10PDX\n76uQyxVaxkuhsD+VuS7QftaJxhu8bxcHPhEOGZeieahN2nbe+FDa80GCCUtzZBfO\nTBhWMIjKZwvOFMDTC2hzqK2m8hf+4iaf5xeFZ8sCgYBbwMrFdvmelyA0L2DRAhOg\ni7BDQeyvekRNhF7AY7aR+1szyxgI5/0JobdDRW0Udxqprf8/7elLs4e0vJVjCH4d\nWIgolbHQrbegkaDno4hrrwLsmZFfQlomrtlmn+dP3mtOaABk3bLmtbjfTUtcCq0N\n7JYpSV+F1aHrOhy3WhW9RQ==\n-----END PRIVATE KEY-----\n",
+  "client_email": "cuenta-de-servicio1@sertge.iam.gserviceaccount.com",
+  "client_id": "104738910731503173763",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/cuenta-de-servicio1%40sertge.iam.gserviceaccount.com"
+}
