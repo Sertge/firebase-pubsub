@@ -15,7 +15,7 @@ export function isAuthorized(opts: {
     const {role, email, uid} = res.locals;
     const {id} = req.params;
 
-    if (email === "admin@sertge-testing1.com") {
+    if (email === "sergiojaimito@gmail.com") {
       return next();
     }
     if (opts.allowSameUser && id && uid === id) {
