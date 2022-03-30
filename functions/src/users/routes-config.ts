@@ -2,7 +2,7 @@ import {Application} from "express";
 import {create, all, get, patch, remove} from "./controller";
 import {isAuthenticated} from "../auth/authenticated";
 import {isAuthorized} from "../auth/authorized";
-import pubMessage = require("../utils/middleware")
+import {pubMessage} from "../utils/middleware";
 
 /**
  *
